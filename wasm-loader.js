@@ -4,7 +4,7 @@
 // The Godot engine fetches them with fetch(); this override serves the
 // reassembled bytes instead. Cache-busting ?v= forces fresh chunks.
 (function () {
-  var VERSION = 'v1-20261115';
+  var VERSION = 'v2-20261115';
   var WASM_PARTS = 16;
   var PCK_PARTS = 1;
   var cache = {};
